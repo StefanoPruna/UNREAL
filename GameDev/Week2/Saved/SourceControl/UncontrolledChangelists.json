@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Box_11087A0A.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_11087A0A.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Cylinder_E96A2DC0.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/StefanoMap.umap",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Maps/StefanoMap.umap",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Cylinder_E96A2DC0.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Box_C047E771.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Box_726705F9.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Box_DAFC37D6.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_61E48AF9.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_171E4F64.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_76B26853.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_D7B7A839.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_CutPart_49894FDA.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_7D7FCC2C.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Boolean_A4EAFF30.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_BEA863C4.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_A829D1B4.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_35AD26FD.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_853DE513.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_D5972BCB.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Boolean_5BE0CFD7.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_FC1749D7.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_7EB3045E.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_B93455F3.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Boolean_E632D288.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_7F17970A.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_2350A58B.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_D2905286.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_91FCD742.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Boolean_FEDD05F5.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Box_942036D0.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Materials/Walls.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Materials/Frames.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Materials/Floor.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Materials/Lights.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Cylinder_7BA0E0BC.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Materials/Ceiling.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Materials/Enemy.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Materials/Stairs_9F6783EB.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Meshes/Stairs_9F6783EB.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week2/Content/Materials/Stairs.uasset"
+			]
+		}
+	]
+}
