@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/Maps/StefanoMap.umap",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/GameMode/StefanoGameMode.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/BluePrint/PickUps/AmmoPickUp.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/BluePrint/PickUps/Coins.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/BluePrint/PickUps/HealthPotion.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/Box_8960AD69.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/Meshes/Health.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/Materials/Gold.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/Meshes/Cylinder_F3F6A6F5.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/BluePrint/PickUps/Coin.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/Materials/Potion.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/Meshes/Weapon.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/Materials/Weapon.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/BluePrint/Characters/StefanoPlayer.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/Meshes/Box_8960AD69.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/Box_D91F0938.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/Meshes/Box_D91F0938.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/BluePrint/PickUps/Cylinder_93E62BB0.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/Meshes/Cylinder_93E62BB0.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/BluePrint/PickUps/WrongCoins.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/BluePrint/PickUps/Cylinder_7C3944C8.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/Materials/Cylinder_F3F6A6F5.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/Materials/Box_588138CA.uasset",
+				"C:/Users/makem/Documents/GitHub/UNREAL/GameDev/Week3/Content/Meshes/Box_588138CA.uasset"
+			]
+		}
+	]
+}
